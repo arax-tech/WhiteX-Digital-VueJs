@@ -1,1 +1,0 @@
-import{s as f}from"./index-87919977.js";import{t as b,bN as e}from"./index-c4e71550.js";const s=(c,r)=>b(()=>{if(!(r!=null&&r.query))return e(c);const u=e(c),a=e(r==null?void 0:r.query),t=Object.fromEntries(Object.entries(a).map(([m,y])=>[m,e(y)]));return`${u}${t?`?${f(t)}`:""}`});export{s as c};

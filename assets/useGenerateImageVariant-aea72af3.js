@@ -1,0 +1,1 @@
+import{a8 as u,bf as i,t as f}from"./index-670bda14.js";const m=(a,n,s,o,e=!1)=>{const r=u(),{global:t}=i();return f(()=>{if(t.name.value==="light")return r.skin==="bordered"&&e?s:a;if(t.name.value==="dark")return r.skin==="bordered"&&e?o:n})};export{m as u};
